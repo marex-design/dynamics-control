@@ -1,0 +1,20 @@
+sympy-tutorial-lab/
+ 
+├── 01_introduction/
+│   ├── what_is_symbolic_computation.ipynb
+│   └── why_sympy.ipynb
+├── 02_gotchas/
+│   ├── symbols_vs_python_vars.ipynb
+│   └── power_and_division_pitfalls.ipynb
+├── 03_core_features/
+│   ├── basic_operations.ipynb
+│   ├── printing_systems.ipynb
+│   └── simplification.ipynb
+├── 04_math_modules/
+│   ├── calculus.ipynb
+│   ├── solvers.ipynb
+│   └── matrices.ipynb
+├── 05_advanced/
+│   └── expression_manipulation.ipynb
+├── README.md
+└── requirements.txt
